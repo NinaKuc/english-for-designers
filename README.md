@@ -12,5 +12,5 @@ Below you can find the assignments we worked on during the winter semester in th
 
 - [HW 1: Character](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/1#issue-3857798753)
 - [HW 2: Alt text](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/2#issue-3857817645)
-- [HW 3: Business card](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/5#issue-3857840685)
+- [HW 3: Business card](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/9#issue-3857937060)
 - [HW 4: Self presentation](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/7#issue-3857906436)
