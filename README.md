@@ -10,7 +10,7 @@ Below you can find the assignments we worked on during the winter semester in th
 
 ### Homeworks📚
 
-- [HW 1: Character](# https://github.com/NinaKuc/ajovt-25-26-vskk/blob/main/Character)
+- [HW 1: Character](https://github.com/NinaKuc/ajovt-25-26-vskk/blob/main/Character)
 - [HW 2: Alt text](#)
 - [HW 3: Business card](#)
 - [HW 4: Self presentation](#)
