@@ -1,4 +1,4 @@
-# ajovt-25-26-vskk
+# English for Designers
 
 ## Hi there!✨
 
