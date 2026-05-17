@@ -21,5 +21,5 @@ Below you can find the assignments we worked on during the winter semester in th
 And here we continue with the assignments in the summer semester:)
 
 - [HW 1: What I Learned Today](https://github.com/NinaKuc/english-for-designers/blob/main/What%20I%20Learned%20Today)
-- [HW 2: Case Study]()
+- [HW 2: Case Study](https://github.com/NinaKuc/english-for-designers/blob/6e6831036b093d956b91cadf497440efd7ecc8df/Case%20Study)
 - [HW 3: Storytelling]()
