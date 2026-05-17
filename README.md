@@ -6,7 +6,7 @@ My name is Nina Kučerová and I study graphic design. I have always wanted to b
 
 ---
 
-### Homeworks📚
+### Winter Homeworks📚 
 
 Below you can find the assignments we worked on during the winter semester in the AJOVT3 course.
 
@@ -14,3 +14,12 @@ Below you can find the assignments we worked on during the winter semester in th
 - [HW 2: Alt text](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/2#issue-3857817645)
 - [HW 3: Business card](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/9#issue-3857937060)
 - [HW 4: Self presentation](https://github.com/NinaKuc/ajovt-25-26-vskk/pull/7#issue-3857906436)
+
+
+### Summer Homeworks📚 
+
+And here we continue with the assignments in the summer semester:)
+
+- [HW 1: What I Learned Today]()
+- [HW 2: Case Study]()
+- [HW 3: Storytelling]()
